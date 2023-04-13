@@ -1,0 +1,22 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "Projeto criado com o livro Construindo APIs REST com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eduardofaria/LearningNodeJS.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Eduardo Faria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardofaria/LearningNodeJS/issues"
+  },
+  "homepage": "https://github.com/eduardofaria/LearningNodeJS#readme"
+}
